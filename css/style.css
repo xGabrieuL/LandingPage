@@ -80,6 +80,7 @@ h4 {
     right: 0;
     left: 0;
     border-bottom: 0.1rem solid #dc143c;
+    z-index: 3;
  }
 
  .menu-content {
